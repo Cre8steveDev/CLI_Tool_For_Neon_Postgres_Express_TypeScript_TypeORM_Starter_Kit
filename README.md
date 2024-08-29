@@ -15,10 +15,12 @@ npm install -g neon-express-typeorm-cli
 To create a new project, run:
 
 ```bash
-neon-express-typescript-cli create <project-name>
+neon-express-typeorm-cli create <project-name>
 ```
 
 Replace `<project-name>` with your desired project name.
+
+On the prompt, select "Basic" For a simple set up or "Full" to get the full setup with the documentation for the Starterkit.
 
 ## Features
 
