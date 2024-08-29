@@ -1,7 +1,7 @@
 {
-  "name": "neon-psql-kit",
+  "name": "neon-express-typeorm-cli",
   "version": "1.0.0",
-  "description": "Neon Postgres OSS Kit for NodeJS/Express Backend with Typescript, TypeORM (Includes initial set up for and Jest, Basic JWT Authentication, API Route Versioning.",
+  "description": "CLI tool for Neon Postgres OSS Kit for NodeJS/Express Backend with Typescript, TypeORM (Includes initial set up for and Jest, Basic JWT Authentication, API Route Versioning.",
   "main": "./src/index.js",
   "type": "commonjs",
   "bin": {
